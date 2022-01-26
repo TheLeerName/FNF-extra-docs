@@ -35,7 +35,7 @@ This repository contains the files for downloading it in FNF Extra.
 - [**StarnyArt**](https://starnyart.tumblr.com/)
 - [**KadeDeveloper**](https://twitter.com/kadedeveloper)
 > idk credits for insane difficulty, i found it in my old folder in pc
-### Links: [**Listen song (with gameplay)**](https://www.youtube.com/watch?v=x4au_aU0XU4)
+### Links: [**Listen song (with gameplay)**](https://www.youtube.com/watch?v=x4au_aU0XU4) - [**GameBanana page**](https://gamebanana.com/mods/44366)
 
 ## VS Shaggy 2.5 Mod
 ### Songs added to FNF Extra: GOD EATER, Thunderstorm, Disassembler and Astral Calamity
